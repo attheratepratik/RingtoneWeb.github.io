@@ -20,6 +20,10 @@ let songs = [
     {songName: "Bhula Dena - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
     {songName: "Tumhari Kasam - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
     {songName: "Na Jaana - Salam-e-Ishq", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
+    {songName: "Menu chadeya Dance ka bhoot chadeya", 
+    filePath: "songs/4.mp3Mainu Chadeya Dance Ka Bhoot Chadeya (Brahmastra)(audiosong.in).mp3", 
+    coverPath: "Dance-Ka-Bhoot-Ringtone-BRAHMASTRA-Arijit-Singh.png"}
+
 ]
 
 songItems.forEach((element, i)=>{ 
