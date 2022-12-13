@@ -21,7 +21,7 @@ let songs = [
     {songName: "Tumhari Kasam - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
     {songName: "Na Jaana - Salam-e-Ishq", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
     {songName: "Menu chadeya Dance ka bhoot chadeya", 
-    filePath: "songs/4.mp3Mainu Chadeya Dance Ka Bhoot Chadeya (Brahmastra)(audiosong.in).mp3", 
+    filePath: "songs/10.mp3", 
     coverPath: "Dance-Ka-Bhoot-Ringtone-BRAHMASTRA-Arijit-Singh.png"}
 
 ]
